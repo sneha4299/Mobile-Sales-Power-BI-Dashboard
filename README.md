@@ -1,6 +1,5 @@
 # Mobile-Sales-Power-BI-Dashboard
 Power BI dashboard analyzing mobile sales performance across cities, brands, payment methods, and time periods.
-# Mobile Sales Dashboard (Power BI)
 
 Overview
 This project presents an interactive Power BI dashboard to analyze mobile sales data across multiple dimensions such as city, brand, payment method, and time period. The dashboard provides key performance indicators (KPIs), comparative charts, and trend analysis to support business decision-making.
